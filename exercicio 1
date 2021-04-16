@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+char palavra [50];
+
+int main() {
+  
+  char PalavraDigitada;
+  
+  cout<< "Digite uma palavra"<<endl;
+  cin>> PalavraDigitada;
+}
